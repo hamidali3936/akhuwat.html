@@ -1,0 +1,73 @@
+
+
+.pa{
+    color: black;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(100, 221, 237);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    height: 100px;
+    margin: 10px;
+
+}
+body{
+   
+    border: solid;
+    
+}
+.pa1{
+    background-color: rgb(0, 255, 145);
+    margin-right: 100px;
+    margin-top:50px;
+    padding-left: 5px;
+    margin-left: 0  ;
+    width: 98%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+    }
+    .pa3{
+        background-color: rgb(226, 43, 211);
+        height: 450px;
+        width: 68%;
+        
+        margin-top: 2px;
+        padding-left: 20PX;
+        padding-bottom: 0px;
+        float: left;    
+        margin-right: 0;
+        margin-left: 10px;
+        margin-bottom: 5px;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+        
+    }
+    #pa4{
+        background-color: rgb(226, 43, 198);
+        float: right;
+        height: 450px;
+        padding-right:5px;
+        padding-left: 10px;
+        margin-left: 30px;
+        padding-top:    ;
+        width: 25%;
+        margin-top: 2px;
+        margin-right: 10px;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    }
+    .pa5{
+        background-color: rgb(100, 221, 237); 
+        height: 40px;
+        clear: both;
+        margin: 10px;
+        margin-top: 50px;
+        padding: 5px;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    }
+    .pa6{
+        background-color: bisque;
+        width: 83%;
+        height: 110px;
+        margin: 20px 50px 10px 10px;
+    
+        padding-left: 100px;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+
+    }
